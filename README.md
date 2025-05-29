@@ -68,6 +68,6 @@ MIT License — feel free to use, fork, and contribute.
 ---
 
 🧠 Author
-Made with ❤️ by not-a-robot, guided by The Python Architect Trainer.
+Made with ❤️ by untsunts-code, guided by The Python Architect Trainer.
 
 ---
